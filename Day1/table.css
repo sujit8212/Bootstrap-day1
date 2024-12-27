@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #addd
+}
+tr:nth-child(even) {
+    background-color: rgb(165, 128, 50); color: whitesmoke;
+}

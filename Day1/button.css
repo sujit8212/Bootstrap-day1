@@ -1,0 +1,46 @@
+.subscribe-btn{
+    background-color:black;
+    color:whitesmoke;
+    /*padding: 10px; */
+    /*padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.subscribe-btn:hover{
+    opacity: 0.5;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.join-btn{
+    background-color: lightgray;
+    color: rgb(red, green, blue);
+    padding: 10px 20px;
+    font-size: bold;
+    border-radius: spx;
+}
+
+.join-btn:hover{
+    opacity: 0.5;
+    background-color: white;
+    color: black;
+}
+
+.getitnow-btn{
+    background-color: lightgreen;
+    color: rgb(red, green, blue);
+    padding: 10px 20px;
+    font-size:bold;
+    border-radius: 20px;
+    border: none;
+}
+
+.getitnow-btn:hover{
+    opacity: 1;
+    background-color: white;
+    color: black;
+}
